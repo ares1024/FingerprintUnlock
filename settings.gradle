@@ -1,2 +1,3 @@
+include ':BiometricManager'
 include ':app'
 rootProject.name = "FingerprintUnlock"
